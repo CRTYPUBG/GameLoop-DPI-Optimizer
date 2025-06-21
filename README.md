@@ -36,3 +36,4 @@ Perfect for developers, designers, and gamers who want to optimize their display
    ```bash
    git clone https://github.com/CRTYPUBG/GameLoop-DPI-Optimizer.git
    cd GameLoop-DPI-Optimizer
+   ./dpi_gui.ps1
