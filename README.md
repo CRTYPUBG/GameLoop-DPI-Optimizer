@@ -25,7 +25,7 @@ Perfect for developers, designers, and gamers who want to optimize their display
 
 ## Screenshot
 
-![Screenshot](https://user-images.githubusercontent.com/yourusername/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/CRTYPUBG/GameLoop-DPI-Optimizer/refs/heads/main/ic/Screenshot.png)
 
 ---
 
