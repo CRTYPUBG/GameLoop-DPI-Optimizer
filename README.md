@@ -34,5 +34,5 @@ Perfect for developers, designers, and gamers who want to optimize their display
 1. Download the repository or clone it:
 
    ```bash
-   git clone https://github.com/yourusername/dpi-calculator.git
+   git clone https://github.com/CRTYPUBG/GameLoop-DPI-Optimizer.git
    cd dpi-calculator
