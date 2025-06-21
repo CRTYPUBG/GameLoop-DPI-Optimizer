@@ -1,6 +1,6 @@
 # DPI Calculator GUI - Windows PowerShell
 
-![DPI Calculator Banner](https://i.hizliresim.com/ak3n3g8.jpg)  
+![DPI Calculator Banner](https://raw.githubusercontent.com/CRTYPUBG/GameLoop-DPI-Optimizer/refs/heads/main/ic/icon.jpg)  
 *Clean and simple DPI calculator with a modern dark-themed GUI using PowerShell and WPF.*
 
 ---
